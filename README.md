@@ -1,3 +1,7 @@
-Attempt at making a python library that does AES for 512 bit keys. This project is unfinished and abandoned.
+# AES 512-bit Python Library
 
-Fell free to use the basis of this code for anything. Attribution not required.
+This is an attempt at creating a Python library for AES encryption with 512-bit keys.
+
+**Note:** This project is unfinished and abandoned.
+
+Feel free to use the basis of this code for anything. Attribution is not required.
